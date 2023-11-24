@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Linux/Macos VScode Pytest Jenkins Gitlab**
 
-- 💬 Ask me about **TestRail Jira**
+- 💬 Ask me about **Selenium, Web scraping**
 
 - 📫 How to reach me **shaworkmi@gmail.com**
 
